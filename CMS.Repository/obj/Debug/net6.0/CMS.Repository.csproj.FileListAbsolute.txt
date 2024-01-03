@@ -1,0 +1,17 @@
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Repository.deps.json
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Repository.runtimeconfig.json
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Repository.dll
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Repository.pdb
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Model.dll
+C:\Shazia\CMSApp\CMS.Repository\bin\Debug\net6.0\CMS.Model.pdb
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.AssemblyReference.cache
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfoInputs.cache
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.AssemblyInfo.cs
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CoreCompileInputs.cache
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.csproj.CopyComplete
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.dll
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\refint\CMS.Repository.dll
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.pdb
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\CMS.Repository.genruntimeconfig.cache
+C:\Shazia\CMSApp\CMS.Repository\obj\Debug\net6.0\ref\CMS.Repository.dll

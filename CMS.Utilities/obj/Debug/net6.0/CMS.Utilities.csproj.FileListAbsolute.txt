@@ -1,0 +1,12 @@
+C:\Shazia\CMSApp\CMS.Utilities\bin\Debug\net6.0\CMS.Utilities.deps.json
+C:\Shazia\CMSApp\CMS.Utilities\bin\Debug\net6.0\CMS.Utilities.dll
+C:\Shazia\CMSApp\CMS.Utilities\bin\Debug\net6.0\CMS.Utilities.pdb
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.csproj.AssemblyReference.cache
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.AssemblyInfoInputs.cache
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.AssemblyInfo.cs
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.csproj.CoreCompileInputs.cache
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.dll
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\refint\CMS.Utilities.dll
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\CMS.Utilities.pdb
+C:\Shazia\CMSApp\CMS.Utilities\obj\Debug\net6.0\ref\CMS.Utilities.dll

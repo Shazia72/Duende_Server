@@ -1,0 +1,15 @@
+C:\Shazia\CMSApp\TestByBigzad\bin\Debug\net6.0\TestByBigzad.exe
+C:\Shazia\CMSApp\TestByBigzad\bin\Debug\net6.0\TestByBigzad.deps.json
+C:\Shazia\CMSApp\TestByBigzad\bin\Debug\net6.0\TestByBigzad.runtimeconfig.json
+C:\Shazia\CMSApp\TestByBigzad\bin\Debug\net6.0\TestByBigzad.dll
+C:\Shazia\CMSApp\TestByBigzad\bin\Debug\net6.0\TestByBigzad.pdb
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.csproj.AssemblyReference.cache
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.AssemblyInfoInputs.cache
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.AssemblyInfo.cs
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.csproj.CoreCompileInputs.cache
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.dll
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\refint\TestByBigzad.dll
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.pdb
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\TestByBigzad.genruntimeconfig.cache
+C:\Shazia\CMSApp\TestByBigzad\obj\Debug\net6.0\ref\TestByBigzad.dll

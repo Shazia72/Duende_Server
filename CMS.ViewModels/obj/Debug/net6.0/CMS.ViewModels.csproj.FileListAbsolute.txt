@@ -1,0 +1,15 @@
+C:\Shazia\CMSApp\CMS.ViewModels\bin\Debug\net6.0\CMS.ViewModels.deps.json
+C:\Shazia\CMSApp\CMS.ViewModels\bin\Debug\net6.0\CMS.ViewModels.dll
+C:\Shazia\CMSApp\CMS.ViewModels\bin\Debug\net6.0\CMS.ViewModels.pdb
+C:\Shazia\CMSApp\CMS.ViewModels\bin\Debug\net6.0\CMS.Model.dll
+C:\Shazia\CMSApp\CMS.ViewModels\bin\Debug\net6.0\CMS.Model.pdb
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.csproj.AssemblyReference.cache
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.AssemblyInfoInputs.cache
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.AssemblyInfo.cs
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.csproj.CoreCompileInputs.cache
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.csproj.CopyComplete
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.dll
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\refint\CMS.ViewModels.dll
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\CMS.ViewModels.pdb
+C:\Shazia\CMSApp\CMS.ViewModels\obj\Debug\net6.0\ref\CMS.ViewModels.dll
